@@ -1,8 +1,5 @@
-# Code_TB
+# Code_TP
 Using a pathogenic microorganism DNA capture-based NGS technique for pathogenic microorganism DNA enrichment sequencing, followed by machine learning to establish pathogenic microorganism diagnostic thresholds that leaded to a pathogenic microorganism diagnostic model. 
-
-## QC
->fastp -i {input1} -I {input2} -o {output1} -O {output2} -j {json} -h {html} -w 16
 
 ## arrange the data and generate a sample information file, format like example/sample
 
